@@ -58,7 +58,7 @@ async function run() {
 
     }
     finally {
-        // await client.close();
+        // awai client.close();
     }
 }
 
